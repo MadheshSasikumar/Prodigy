@@ -1,6 +1,7 @@
 # TASK 1
 
 
+
 # Introduction
 This project aims to create a visualization of the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
  By analyzing these distributions, we can gain insights into demographic trends and characteristics within a specific dataset.
