@@ -5,7 +5,8 @@ We will use natural language processing (NLP) techniques to process and analyze 
 
 
 # Dataset
-The dataset used for this project is from Kaggle: Twitter Entity Sentiment Analysis. https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis              
+The dataset used for this project is from Kaggle: Twitter Entity Sentiment Analysis.          
+https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis              
 It includes tweets related to various entities (brands, topics, etc.) along with their sentiment scores (positive, negative, or neutral).
 
 
